@@ -48,7 +48,7 @@ int main() {
     int result = binarySearch(Arr, n, k, left, right, min_);
 
     if (result == -1) {
-        cout << "Hello" << endl;
+        cout << " " << endl;
     } else {
         cout << result << endl;
     }
